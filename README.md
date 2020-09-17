@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - [gwankyun/any: std::any in C++98](https://github.com/gwankyun/any)
-C++98下可用的std::any。
+C++98下可用的`std::any`。
 
 - [gwankyun/has_include: __has_include的C++98簡化版](https://github.com/gwankyun/has_include)
-__has_include庫簡化，用於C++11及之前。
+`__has_include`庫簡化，用於C++11及之前。
