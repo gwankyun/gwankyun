@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+C++從業者，F\#愛好者。
+
 - [gwankyun/any: std::any in C++98](https://github.com/gwankyun/any)
 C++98下可用的`std::any`。
 
